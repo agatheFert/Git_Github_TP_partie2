@@ -419,9 +419,11 @@ a.mac{
 }
 
 .rs .toto{
-    list-style: none;
-    margin-right: 60px;
+    list-style: none;    
     float: left;
+	width: 20%;
+    box-sizing: border-box;
+   display: block;
 }
 
 .rs .toto h4{
